@@ -19,4 +19,4 @@ cd smart-contracts
 truffle develop
 migrate --reset
 ```
-## `migrate --reset` should run inside the `truffle console`.
+# `migrate --reset` should run inside the `truffle console`.

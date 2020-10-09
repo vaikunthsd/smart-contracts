@@ -3,7 +3,7 @@
 Implemented portions of the DAO (Decentralized Autonomous Organization)in Solidity.
 ## Getting Started
 
-First, access [Node.js website](https://nodejs.org/) to download it and then install it on your machine.
+First, access the [Node.js website](https://nodejs.org/) to download it and then install it on your machine.
 
 Next, we need to install Truffle, an Ethereum development environment.
 
